@@ -23,6 +23,7 @@ Parses your emojis from Unicode to aliases, and vice versa. Based on emoji-data
 
   s.ios.deployment_target = '8.0'
   s.watchos.deployment_target = '5.0'
+  s.macos.deployment_target = '10.15'
 
   s.source_files = 'emojidataios/Classes/**/*'
   
